@@ -1,7 +1,7 @@
 "use client"
 
-import postcard1 from "@/public/postcard1.PNG";
-import profileimg from "@/public/profileimg.PNG";
+import postcard1 from "@/public/postcard1.png";
+import profileimg from "@/public/profileimg.png";
 import Image from "next/image";
 import { BsThreeDots } from "react-icons/bs";
 import { FaRegHeart } from "react-icons/fa";
