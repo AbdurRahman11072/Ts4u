@@ -26,8 +26,7 @@ const ispublic = path === "/login" || path === "/signup";
 export const config = {
   matcher: [
    "/",
-   "/dashboard",
-   "/dashboard/social",
+  
    "/login",
    "/signup"
 ]}
